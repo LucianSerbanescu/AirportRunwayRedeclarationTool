@@ -45,11 +45,11 @@ runway.
 The top-down view must be able to display:
 • The runway centreline. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.59%20pm.png?raw=true"/></p> <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.22%20pm.png?raw=true"/></p>
 9) The lower threshold, which is the threshold that has the lowest value, should always be located on the left. For example, in runway 09L/27R, 09L must be on the left.
-10) There should be an option to automatically rotate the runway strip to match its compass heading.
-11) The top-down view must also display the Cleared and Graded areas around the runway strip.
-12) The side-on view must also display a representation of the TOCS (Take-Off Climb Surface) / ALS (Approach / Landing Surface) slope caused over the obstacle when one is present.
-13) The user must be able to select different runways and thresholds, with the views updating upon their selection.
-14) The system must be able to display notifications to the user indicating any actions that have taken place e.g. obstacle added, runways re-declared, values changed, etc.
+10) There should be an option to automatically rotate the runway strip to match its compass heading. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.41%20pm.png?raw=true"/></p>
+12) The top-down view must also display the Cleared and Graded areas around the runway strip.
+13) The side-on view must also display a representation of the TOCS (Take-Off Climb Surface) / ALS (Approach / Landing Surface) slope caused over the obstacle when one is present.
+14) The user must be able to select different runways and thresholds, with the views updating upon their selection.
+15) The system must be able to display notifications to the user indicating any actions that have taken place e.g. obstacle added, runways re-declared, values changed, etc. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.48%20pm.png?raw=true"/></p>
 
 ### Optional
 
@@ -58,8 +58,7 @@ The top-down view must be able to display:
 3) A 3D visualisation of the airfield.
 4) Be able to export the displays in different formats including JPEG, PNG, GIF, etc.
 5) Provide API support for the use of assistive technologies, such as screen readers.
-6) Provide alternative colour schemes for your program, which allow colour-blind users to view it.
-7) <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.06.56%20pm.png?raw=true"/></p>
+6) Provide alternative colour schemes for your program, which allow colour-blind users to view it. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.06.56%20pm.png?raw=true"/></p>
 8) Be able to print out the results of the currently viewed situation in a textual format.
 9) Any other useful extensions that you can think of. These must be clearly stated and
 explained in your final report.
