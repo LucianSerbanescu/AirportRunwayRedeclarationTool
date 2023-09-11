@@ -1,119 +1,65 @@
-# COMP2211 SEG
+# Airport Runway Redeclaration Tool
 
-## Getting started
+## Task Description
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+### Background 
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Commercial airports are busy places. Ideally runways will be fully open at all times, but this is not always possible. When there is an obstruction (such as a broken down aircraft or surface damage) on the runway, it may need to be closed. However it may still be possible to keep the runway open, albeit with reduced distances available for landing and taking off.
 
-## Add your files
+All runways have a published set of parameters. When an obstacle is present on the runway, these parameters must be recalculated and a commercial decision made whether to continue operations on the runway. If (limited) operations are to continue, the published data about the runway must be recalculated and republished. The final decision about whether to land/take off rests with the pilot.
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+### Problem 
 
-```
-cd existing_repo
-git remote add origin https://git.soton.ac.uk/hhbl1u21/comp2211-seg-team-17.git
-git branch -M main
-git push -uf origin main
-```
+The calculations and process to determine runway parameters are specified by the CAA. The calculations must be completed independently by two competent (qualified) people who must then reconcile their results making the task involved and time consuming.
 
-## Collaborate with your team
+The customer desires a tool which, given standard runway information and information about an obstacle, provides the revised runway parameters together with a visualisation of the obstacle and a summary of the calculations. The tool will be used to obtain a rapid indication of the effect of an obstruction on the runway parameters as an aid to deciding whether operations can continue, and whether performing the calculations in accord with the official process is worthwhile. The tool will be used as an aid/guide. It cannot replace the official process.
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
 
-## Test and Deploy
+## Customer requirements 
 
-Use the built-in continuous integration in GitLab.
+### Mandatory
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
+1) The system should be configurable to permit its use at any UK commercial airport. 
+<p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.06.54%20pm.png?raw=true"/></p>
 
-***
+2) The tool must provide at least two visualisations of each of the airports, including 2D top-down and side-on views. These may be displayed simultaneously or individually. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.16%20pm.png?raw=true"/></p>
+3) The system must calculate the new runway distances available when ONE obstacle is present, given the obstacle’s distances from each threshold, distance from the centreline and height. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.29%20pm.png?raw=true"/></p>
+4) The program should come with a list of predefined obstacles.
+5) The user must be able to view the re-calculated values and the originals.
+6) The user must be able to view a breakdown of the calculations so they may be compared with the paper results. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.08.05%20pm.png?raw=true"/></p>
+7) The system should be able to import and export details of obstacles, airports and other data using appropriate XML files.
+8) Both views must be able to display:
+• The runway strip.
+• Threshold indicators.
+• Threshold designators e.g. 27R or 09L, with the letter below the number.
+• Any displaced thresholds that are present.
+• Stopway / Clearway for both ends of the runway.
+• Indication of the take-off / landing direction.
+• All re-declared distances, with indicators showing where they start and end relative
+to the runway strip.
+• The distances should be broken down into their respective parts, including
+RESA/Blast Allowance.
+• The obstacle, if one is present upon the runway.
+• The offset caused by the RESA and slope angles relative to the obstacle on the
+runway.
+The top-down view must be able to display:
+• The runway centreline. <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.59%20pm.png?raw=true"/></p> <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.07.22%20pm.png?raw=true"/></p>
+9) The lower threshold, which is the threshold that has the lowest value, should always be located on the left. For example, in runway 09L/27R, 09L must be on the left.
+10) There should be an option to automatically rotate the runway strip to match its compass heading.
+11) The top-down view must also display the Cleared and Graded areas around the runway strip.
+12) The side-on view must also display a representation of the TOCS (Take-Off Climb Surface) / ALS (Approach / Landing Surface) slope caused over the obstacle when one is present.
+13) The user must be able to select different runways and thresholds, with the views updating upon their selection.
+14) The system must be able to display notifications to the user indicating any actions that have taken place e.g. obstacle added, runways re-declared, values changed, etc.
 
-## Coding standards
-- Variables should be explicit (~~var x~~, var landingStripLength)
+### Optional
 
-- Unit tests should be written for each method within a class 
-
-System
-```
-public class myClass {
-    private readonly int _myField;
-
-    public myClass() {
-        myField = 0;
-    }
-
-    public void incrementMyField() {
-        myField++;
-    }
-
-    public int getMyField() {
-        return _myField;
-    }
-}
-```
-
-TestBaseClass
-```
-public class myClassTests {
-    protected readonly myClass;
-
-    public myClassTests() {
-        myClass = new myClass();
-    }
-}
-```
-
-SystemUnderTest
-```
-public class incrementMyField : myClassTests {
-    [test]
-    public void incrementsMyField_GivenMethodIsCalled() {
-        //Arrange
-        var expectedValue = 1;
-
-        //Act
-        myClass.incrementMyField();
-
-        //Assert
-        myClass.getMyField().ShouldBeEqualTo(expectedValue);
-    }
-}
-```
-
-- Unit test method names should be readable SUT_DOES_GIVENCONDITION
-
-## Branching Strategy
-**main** - Feature branches will be based off of this
-
-**feature branch** - Feature branches should be for **ONE** user story feature/FEATURENAME-STORYNAME
-e.g. feature/myClass-AddIncrementMethod
-
-for bugs - Bugfix/FEATURENAME-BUGNAME
-e.g bugfix/myClass-MethodNotIncrementing
-
-feature branch should require 1-2 code reviews (pull request review) before merging into main.
-
-merges into **main** will trigger CI/CD pipeline.
-
-## CI/CD pipeline
-*docker can help you with building an image with all dependecies needed*
-
-Stage - Set Build number  
-Stage - Build Image/App  
-&emsp;Job - Build Image  
-&emsp;Job - Run Unit Tests  
-&emsp;Job - Publish image  
-Stage - Deploy to environments
-
-## Commits
-- Commits should be broken down into many small commits so it is easier to review code e.g. Created class, added x functionality, wrote tests for y
-- Commit messages should be descriptive but concise
-
-## PRS
-- When creating prs make sure you link the story in the pr message so reviewers have context
+1) A Map view with the runway overlaid over real-world images.
+2) The ability to zoom and pan the views.
+3) A 3D visualisation of the airfield.
+4) Be able to export the displays in different formats including JPEG, PNG, GIF, etc.
+5) Provide API support for the use of assistive technologies, such as screen readers.
+6) Provide alternative colour schemes for your program, which allow colour-blind users to view it.
+7) <p align="center"><img width="350" src="https://github.com/LucianSerbanescu/AirportRunwayRedeclarationTool/blob/master/app%20screenshots/Screenshot%202023-09-11%20at%2012.06.56%20pm.png?raw=true"/></p>
+8) Be able to print out the results of the currently viewed situation in a textual format.
+9) Any other useful extensions that you can think of. These must be clearly stated and
+explained in your final report.
