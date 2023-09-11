@@ -1,0 +1,18 @@
+[2023-09-11 12:06:42.995] - Airport Tool Launched
+[2023-09-11 12:07:06.767] - Loaded Airport: Gatwick
+[2023-09-11 12:07:10.859] - Runway Parameters Updated: Landing Towards - LDA = 2765.00, DT = 394.00
+[2023-09-11 12:07:10.885] - New Runway Selected
+ID - 08R, TODA - 3311.00, ASDA - 3233.00, TORA - 3159.00, LDA - 2765.00
+ID - 26L, TODA - 3399.00, ASDA - 3317.00, TORA - 3255.00, LDA - 2830.00
+[2023-09-11 12:07:20.028] - Obstacle Added to Runway: Name - Boeing 787-9, x - 2000.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-09-11 12:07:23.655] - Runway Parameters Updated: Landing Over - LDA = -171.40, DT = 394.00
+[2023-09-11 12:07:24.153] - Runway Parameters Updated: Take-off Away From - TODA = 385.60, ASDA = 307.60, TORA = 233.60
+[2023-09-11 12:07:24.811] - Runway Parameters Updated: Take-off Towards - TODA = 1457.60, ASDA = 1457.60, TORA = 1457.60
+[2023-09-11 12:07:45.434] - Runway Parameters Updated: Take-off Towards - TODA = -171.40, ASDA = -171.40, TORA = -171.40
+[2023-09-11 12:07:57.270] - Runway Parameters Updated: Landing Over - LDA = 1553.60, DT = 425.00
+[2023-09-11 12:08:08.507] - Airport Saved - Gatwick, Scene Changed to Main Menu
+[2023-09-11 12:08:09.952] - Airport Loaded: Luton
+[2023-09-11 12:08:10.969] - Runway Parameters Updated: Landing Towards - LDA = 2162.00, DT = 0.00
+[2023-09-11 12:08:10.990] - New Runway Selected
+ID - 07, TODA - 3243.00, ASDA - 2162.00, TORA - 2162.00, LDA - 2162.00
+ID - 25, TODA - 3243.00, ASDA - 2219.00, TORA - 2162.00, LDA - 2080.00
