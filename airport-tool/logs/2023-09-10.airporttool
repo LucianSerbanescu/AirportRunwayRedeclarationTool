@@ -1,0 +1,12 @@
+[2023-09-10 17:31:41.513] - Airport Tool Launched
+[2023-09-10 17:31:45.216] - Airport Loaded: Gatwick
+[2023-09-10 17:31:46.598] - Runway Parameters Updated: Landing Towards - LDA = 2765.00, DT = 394.00
+[2023-09-10 17:31:46.620] - New Runway Selected
+ID - 08R, TODA - 3311.00, ASDA - 3233.00, TORA - 3159.00, LDA - 2765.00
+ID - 26L, TODA - 3399.00, ASDA - 3317.00, TORA - 3255.00, LDA - 2830.00
+[2023-09-10 17:32:46.066] - Airport Tool Launched
+[2023-09-10 17:32:48.467] - Airport Loaded: Southampton
+[2023-09-10 17:32:49.874] - Runway Parameters Updated: Landing Towards - LDA = 1650.00, DT = 73.00
+[2023-09-10 17:32:49.898] - New Runway Selected
+ID - 02, TODA - 1831.00, ASDA - 1723.00, TORA - 1723.00, LDA - 1650.00
+ID - 20, TODA - 1805.00, ASDA - 1650.00, TORA - 1650.00, LDA - 1605.00

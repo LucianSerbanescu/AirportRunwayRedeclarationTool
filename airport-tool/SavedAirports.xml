@@ -1,0 +1,3332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airports>
+    <Airport>
+        <Name>Manchester</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>5</angle>
+                <position>RIGHT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3347.0</toda>
+                <tora>3047.0</tora>
+                <asda>3047.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3347.0</toda>
+                <tora>3047.0</tora>
+                <asda>3047.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3347.0</toda>
+                    <tora>3047.0</tora>
+                    <asda>3047.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3347.0</toda>
+                <tora>3047.0</tora>
+                <asda>3047.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3347.0</toda>
+                    <tora>3047.0</tora>
+                    <asda>3047.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3347.0</toda>
+                <tora>3047.0</tora>
+                <asda>3047.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3347.0</toda>
+                    <tora>3047.0</tora>
+                    <asda>3047.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3347.0</toda>
+                <tora>3047.0</tora>
+                <asda>3047.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3347.0</toda>
+                    <tora>3047.0</tora>
+                    <asda>3047.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3500.0</toda>
+                <tora>3200.0</tora>
+                <asda>3200.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>336.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3500.0</toda>
+                <tora>3200.0</tora>
+                <asda>3200.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>336.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3500.0</toda>
+                    <tora>3200.0</tora>
+                    <asda>3200.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>336.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3500.0</toda>
+                <tora>3200.0</tora>
+                <asda>3200.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>336.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3500.0</toda>
+                    <tora>3200.0</tora>
+                    <asda>3200.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>336.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3500.0</toda>
+                <tora>3200.0</tora>
+                <asda>3200.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>336.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3500.0</toda>
+                    <tora>3200.0</tora>
+                    <asda>3200.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>336.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3500.0</toda>
+                <tora>3200.0</tora>
+                <asda>3200.0</asda>
+                <lda>2864.0</lda>
+                <displacedThreshold>336.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3500.0</toda>
+                    <tora>3200.0</tora>
+                    <asda>3200.0</asda>
+                    <lda>2864.0</lda>
+                    <displacedThreshold>336.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>5</angle>
+                <position>LEFT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3229.0</toda>
+                <tora>3014.0</tora>
+                <asda>3014.0</asda>
+                <lda>2587.0</lda>
+                <displacedThreshold>427.0</displacedThreshold>
+                <clearway>215.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3229.0</toda>
+                <tora>3014.0</tora>
+                <asda>3014.0</asda>
+                <lda>681.2</lda>
+                <displacedThreshold>427.0</displacedThreshold>
+                <clearway>215.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3229.0</toda>
+                    <tora>3014.0</tora>
+                    <asda>3014.0</asda>
+                    <lda>2587.0</lda>
+                    <displacedThreshold>427.0</displacedThreshold>
+                    <clearway>215.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3229.0</toda>
+                <tora>3014.0</tora>
+                <asda>3014.0</asda>
+                <lda>918.2</lda>
+                <displacedThreshold>427.0</displacedThreshold>
+                <clearway>215.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3229.0</toda>
+                    <tora>3014.0</tora>
+                    <asda>3014.0</asda>
+                    <lda>2587.0</lda>
+                    <displacedThreshold>427.0</displacedThreshold>
+                    <clearway>215.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>1283.2</toda>
+                <tora>1068.2</tora>
+                <asda>1068.2</asda>
+                <lda>1068.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>215.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3229.0</toda>
+                    <tora>3014.0</tora>
+                    <asda>3014.0</asda>
+                    <lda>2587.0</lda>
+                    <displacedThreshold>427.0</displacedThreshold>
+                    <clearway>215.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>758.2</toda>
+                <tora>758.2</tora>
+                <asda>758.2</asda>
+                <lda>758.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>215.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3229.0</toda>
+                    <tora>3014.0</tora>
+                    <asda>3014.0</asda>
+                    <lda>2587.0</lda>
+                    <displacedThreshold>427.0</displacedThreshold>
+                    <clearway>215.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3197.0</toda>
+                <tora>2897.0</tora>
+                <asda>2897.0</asda>
+                <lda>2714.0</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1404.0</x>
+                    <y>0.0</y>
+                </obstacle>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3197.0</toda>
+                <tora>2897.0</tora>
+                <asda>2897.0</asda>
+                <lda>1085.2</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1404.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3197.0</toda>
+                    <tora>2897.0</tora>
+                    <asda>2897.0</asda>
+                    <lda>2714.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3197.0</toda>
+                <tora>2897.0</tora>
+                <asda>2897.0</asda>
+                <lda>641.2</lda>
+                <displacedThreshold>183.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1404.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3197.0</toda>
+                    <tora>2897.0</tora>
+                    <asda>2897.0</asda>
+                    <lda>2714.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>1091.2</toda>
+                <tora>791.2</tora>
+                <asda>791.2</asda>
+                <lda>791.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1404.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3197.0</toda>
+                    <tora>2897.0</tora>
+                    <asda>2897.0</asda>
+                    <lda>2714.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>918.2</toda>
+                <tora>918.2</tora>
+                <asda>918.2</asda>
+                <lda>918.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>300.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1404.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3197.0</toda>
+                    <tora>2897.0</tora>
+                    <asda>2897.0</asda>
+                    <lda>2714.0</lda>
+                    <displacedThreshold>183.0</displacedThreshold>
+                    <clearway>300.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <Obstacle>
+                <height>11.8</height>
+                <length>37.6</length>
+                <name>Airbus A320-200</name>
+                <width>34.1</width>
+                <x>1000.0</x>
+                <y>0.0</y>
+            </Obstacle>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Edinburgh</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>6</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>2616.0</toda>
+                <tora>2556.0</tora>
+                <asda>2616.0</asda>
+                <lda>2344.0</lda>
+                <displacedThreshold>212.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>2616.0</toda>
+                <tora>2556.0</tora>
+                <asda>2616.0</asda>
+                <lda>681.2</lda>
+                <displacedThreshold>212.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2616.0</toda>
+                    <tora>2556.0</tora>
+                    <asda>2616.0</asda>
+                    <lda>2344.0</lda>
+                    <displacedThreshold>212.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>2616.0</toda>
+                <tora>2556.0</tora>
+                <asda>2616.0</asda>
+                <lda>675.2</lda>
+                <displacedThreshold>212.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2616.0</toda>
+                    <tora>2556.0</tora>
+                    <asda>2616.0</asda>
+                    <lda>2344.0</lda>
+                    <displacedThreshold>212.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>885.2</toda>
+                <tora>825.2</tora>
+                <asda>885.2</asda>
+                <lda>825.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2616.0</toda>
+                    <tora>2556.0</tora>
+                    <asda>2616.0</asda>
+                    <lda>2344.0</lda>
+                    <displacedThreshold>212.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>543.2</toda>
+                <tora>543.2</tora>
+                <asda>543.2</asda>
+                <lda>543.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2616.0</toda>
+                    <tora>2556.0</tora>
+                    <asda>2616.0</asda>
+                    <lda>2344.0</lda>
+                    <displacedThreshold>212.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3002.0</toda>
+                <tora>2554.0</tora>
+                <asda>2614.0</asda>
+                <lda>2347.0</lda>
+                <displacedThreshold>207.0</displacedThreshold>
+                <clearway>448.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1137.0</x>
+                    <y>0.0</y>
+                </obstacle>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3002.0</toda>
+                <tora>2554.0</tora>
+                <asda>2614.0</asda>
+                <lda>818.2</lda>
+                <displacedThreshold>207.0</displacedThreshold>
+                <clearway>448.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1137.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3002.0</toda>
+                    <tora>2554.0</tora>
+                    <asda>2614.0</asda>
+                    <lda>2347.0</lda>
+                    <displacedThreshold>207.0</displacedThreshold>
+                    <clearway>448.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3002.0</toda>
+                <tora>2554.0</tora>
+                <asda>2614.0</asda>
+                <lda>541.2</lda>
+                <displacedThreshold>207.0</displacedThreshold>
+                <clearway>448.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1137.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3002.0</toda>
+                    <tora>2554.0</tora>
+                    <asda>2614.0</asda>
+                    <lda>2347.0</lda>
+                    <displacedThreshold>207.0</displacedThreshold>
+                    <clearway>448.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>1139.2</toda>
+                <tora>691.2</tora>
+                <asda>751.2</asda>
+                <lda>691.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>448.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1137.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3002.0</toda>
+                    <tora>2554.0</tora>
+                    <asda>2614.0</asda>
+                    <lda>2347.0</lda>
+                    <displacedThreshold>207.0</displacedThreshold>
+                    <clearway>448.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>675.2</toda>
+                <tora>675.2</tora>
+                <asda>675.2</asda>
+                <lda>675.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>448.0</clearway>
+                <stopway>60.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>11.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1137.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3002.0</toda>
+                    <tora>2554.0</tora>
+                    <asda>2614.0</asda>
+                    <lda>2347.0</lda>
+                    <displacedThreshold>207.0</displacedThreshold>
+                    <clearway>448.0</clearway>
+                    <stopway>60.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <Obstacle>
+                <height>11.8</height>
+                <length>37.6</length>
+                <name>Airbus A320-200</name>
+                <width>34.1</width>
+                <x>1000.0</x>
+                <y>0.0</y>
+            </Obstacle>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Heathrow</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>9</angle>
+                <position>LEFT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3901.0</toda>
+                <tora>3901.0</tora>
+                <asda>3901.0</asda>
+                <lda>3592.0</lda>
+                <displacedThreshold>309.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3901.0</toda>
+                <tora>3901.0</tora>
+                <asda>3901.0</asda>
+                <lda>3592.0</lda>
+                <displacedThreshold>309.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3901.0</toda>
+                    <tora>3901.0</tora>
+                    <asda>3901.0</asda>
+                    <lda>3592.0</lda>
+                    <displacedThreshold>309.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3901.0</toda>
+                <tora>3901.0</tora>
+                <asda>3901.0</asda>
+                <lda>3592.0</lda>
+                <displacedThreshold>309.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3901.0</toda>
+                    <tora>3901.0</tora>
+                    <asda>3901.0</asda>
+                    <lda>3592.0</lda>
+                    <displacedThreshold>309.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3901.0</toda>
+                <tora>3901.0</tora>
+                <asda>3901.0</asda>
+                <lda>3592.0</lda>
+                <displacedThreshold>309.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3901.0</toda>
+                    <tora>3901.0</tora>
+                    <asda>3901.0</asda>
+                    <lda>3592.0</lda>
+                    <displacedThreshold>309.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3901.0</toda>
+                <tora>3901.0</tora>
+                <asda>3901.0</asda>
+                <lda>3592.0</lda>
+                <displacedThreshold>309.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3901.0</toda>
+                    <tora>3901.0</tora>
+                    <asda>3901.0</asda>
+                    <lda>3592.0</lda>
+                    <displacedThreshold>309.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3960.0</toda>
+                <tora>3882.0</tora>
+                <asda>3882.0</asda>
+                <lda>3882.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>78.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3960.0</toda>
+                <tora>3882.0</tora>
+                <asda>3882.0</asda>
+                <lda>3882.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>78.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3960.0</toda>
+                    <tora>3882.0</tora>
+                    <asda>3882.0</asda>
+                    <lda>3882.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>78.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3960.0</toda>
+                <tora>3882.0</tora>
+                <asda>3882.0</asda>
+                <lda>3882.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>78.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3960.0</toda>
+                    <tora>3882.0</tora>
+                    <asda>3882.0</asda>
+                    <lda>3882.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>78.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3960.0</toda>
+                <tora>3882.0</tora>
+                <asda>3882.0</asda>
+                <lda>3882.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>78.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3960.0</toda>
+                    <tora>3882.0</tora>
+                    <asda>3882.0</asda>
+                    <lda>3882.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>78.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3960.0</toda>
+                <tora>3882.0</tora>
+                <asda>3882.0</asda>
+                <lda>3882.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>78.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3960.0</toda>
+                    <tora>3882.0</tora>
+                    <asda>3882.0</asda>
+                    <lda>3882.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>78.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>9</angle>
+                <position>RIGHT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3350.0</lda>
+                <displacedThreshold>308.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3350.0</lda>
+                <displacedThreshold>308.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3350.0</lda>
+                    <displacedThreshold>308.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3350.0</lda>
+                <displacedThreshold>308.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3350.0</lda>
+                    <displacedThreshold>308.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3350.0</lda>
+                <displacedThreshold>308.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3350.0</lda>
+                    <displacedThreshold>308.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3350.0</lda>
+                <displacedThreshold>308.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3350.0</lda>
+                    <displacedThreshold>308.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3658.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3658.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3658.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3658.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3658.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3658.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3658.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3658.0</toda>
+                <tora>3658.0</tora>
+                <asda>3658.0</asda>
+                <lda>3658.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3658.0</toda>
+                    <tora>3658.0</tora>
+                    <asda>3658.0</asda>
+                    <lda>3658.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>New York</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>9</angle>
+                <position>LEFT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>6000.0</toda>
+                <tora>4000.0</tora>
+                <asda>5000.0</asda>
+                <lda>3000.0</lda>
+                <displacedThreshold>1000.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>6000.0</toda>
+                <tora>4000.0</tora>
+                <asda>5000.0</asda>
+                <lda>681.2</lda>
+                <displacedThreshold>1000.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>2000.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>6000.0</toda>
+                <tora>4000.0</tora>
+                <asda>5000.0</asda>
+                <lda>1031.2</lda>
+                <displacedThreshold>1000.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>2000.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3481.2</toda>
+                <tora>1481.1999999999998</tora>
+                <asda>2481.2</asda>
+                <lda>1481.1999999999998</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>2000.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>1031.2</toda>
+                <tora>1031.2</tora>
+                <asda>1031.2</asda>
+                <lda>1031.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>2000.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>6000.0</toda>
+                <tora>4000.0</tora>
+                <asda>5000.0</asda>
+                <lda>3000.0</lda>
+                <displacedThreshold>1000.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>6000.0</toda>
+                <tora>4000.0</tora>
+                <asda>5000.0</asda>
+                <lda>681.2</lda>
+                <displacedThreshold>1000.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>0.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>6000.0</toda>
+                <tora>4000.0</tora>
+                <asda>5000.0</asda>
+                <lda>1031.2</lda>
+                <displacedThreshold>1000.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>0.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3481.2</toda>
+                <tora>1481.1999999999998</tora>
+                <asda>2481.2</asda>
+                <lda>1481.1999999999998</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>0.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>0.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>1031.2</toda>
+                <tora>1031.2</tora>
+                <asda>1031.2</asda>
+                <lda>1031.2</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>2000.0</clearway>
+                <stopway>1000.0</stopway>
+                <resa>240.0</resa>
+                <obstacle>
+                    <height>17.8</height>
+                    <length>37.6</length>
+                    <name>Airbus A320-200</name>
+                    <width>34.1</width>
+                    <x>1000.0</x>
+                    <y>0.0</y>
+                </obstacle>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>6000.0</toda>
+                    <tora>4000.0</tora>
+                    <asda>5000.0</asda>
+                    <lda>3000.0</lda>
+                    <displacedThreshold>1000.0</displacedThreshold>
+                    <clearway>2000.0</clearway>
+                    <stopway>1000.0</stopway>
+                    <resa>0.0</resa>
+                    <obstacle>
+                        <height>24.1</height>
+                        <length>73.0</length>
+                        <name>Airbus A380</name>
+                        <width>79.8</width>
+                        <x>0.0</x>
+                        <y>0.0</y>
+                    </obstacle>
+                </originalRunway>
+            </LargerRunway>
+            <Obstacle>
+                <height>17.8</height>
+                <length>37.6</length>
+                <name>Airbus A320-200</name>
+                <width>34.1</width>
+                <x>1000.0</x>
+                <y>0.0</y>
+            </Obstacle>
+        </PhysicalRunway>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>10</angle>
+                <position>RIGHT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>1000.0</toda>
+                <tora>800.0</tora>
+                <asda>900.0</asda>
+                <lda>700.0</lda>
+                <displacedThreshold>100.0</displacedThreshold>
+                <clearway>200.0</clearway>
+                <stopway>100.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>1000.0</toda>
+                <tora>800.0</tora>
+                <asda>900.0</asda>
+                <lda>700.0</lda>
+                <displacedThreshold>100.0</displacedThreshold>
+                <clearway>200.0</clearway>
+                <stopway>100.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1000.0</toda>
+                    <tora>800.0</tora>
+                    <asda>900.0</asda>
+                    <lda>700.0</lda>
+                    <displacedThreshold>100.0</displacedThreshold>
+                    <clearway>200.0</clearway>
+                    <stopway>100.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>1000.0</toda>
+                <tora>800.0</tora>
+                <asda>900.0</asda>
+                <lda>700.0</lda>
+                <displacedThreshold>100.0</displacedThreshold>
+                <clearway>200.0</clearway>
+                <stopway>100.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1000.0</toda>
+                    <tora>800.0</tora>
+                    <asda>900.0</asda>
+                    <lda>700.0</lda>
+                    <displacedThreshold>100.0</displacedThreshold>
+                    <clearway>200.0</clearway>
+                    <stopway>100.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>1000.0</toda>
+                <tora>800.0</tora>
+                <asda>900.0</asda>
+                <lda>700.0</lda>
+                <displacedThreshold>100.0</displacedThreshold>
+                <clearway>200.0</clearway>
+                <stopway>100.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1000.0</toda>
+                    <tora>800.0</tora>
+                    <asda>900.0</asda>
+                    <lda>700.0</lda>
+                    <displacedThreshold>100.0</displacedThreshold>
+                    <clearway>200.0</clearway>
+                    <stopway>100.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>1000.0</toda>
+                <tora>800.0</tora>
+                <asda>900.0</asda>
+                <lda>700.0</lda>
+                <displacedThreshold>100.0</displacedThreshold>
+                <clearway>200.0</clearway>
+                <stopway>100.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1000.0</toda>
+                    <tora>800.0</tora>
+                    <asda>900.0</asda>
+                    <lda>700.0</lda>
+                    <displacedThreshold>100.0</displacedThreshold>
+                    <clearway>200.0</clearway>
+                    <stopway>100.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>800.0</toda>
+                <tora>800.0</tora>
+                <asda>800.0</asda>
+                <lda>800.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>800.0</toda>
+                <tora>800.0</tora>
+                <asda>800.0</asda>
+                <lda>800.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>800.0</toda>
+                    <tora>800.0</tora>
+                    <asda>800.0</asda>
+                    <lda>800.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>800.0</toda>
+                <tora>800.0</tora>
+                <asda>800.0</asda>
+                <lda>800.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>800.0</toda>
+                    <tora>800.0</tora>
+                    <asda>800.0</asda>
+                    <lda>800.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>800.0</toda>
+                <tora>800.0</tora>
+                <asda>800.0</asda>
+                <lda>800.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>800.0</toda>
+                    <tora>800.0</tora>
+                    <asda>800.0</asda>
+                    <lda>800.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>800.0</toda>
+                <tora>800.0</tora>
+                <asda>800.0</asda>
+                <lda>800.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>0.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>800.0</toda>
+                    <tora>800.0</tora>
+                    <asda>800.0</asda>
+                    <lda>800.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>0.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Belfast</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>7</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3073.0</toda>
+                <tora>2780.0</tora>
+                <asda>2780.0</asda>
+                <lda>2780.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>293.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3073.0</toda>
+                <tora>2780.0</tora>
+                <asda>2780.0</asda>
+                <lda>2780.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>293.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3073.0</toda>
+                    <tora>2780.0</tora>
+                    <asda>2780.0</asda>
+                    <lda>2780.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>293.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3073.0</toda>
+                <tora>2780.0</tora>
+                <asda>2780.0</asda>
+                <lda>2780.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>293.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3073.0</toda>
+                    <tora>2780.0</tora>
+                    <asda>2780.0</asda>
+                    <lda>2780.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>293.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3073.0</toda>
+                <tora>2780.0</tora>
+                <asda>2780.0</asda>
+                <lda>2780.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>293.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3073.0</toda>
+                    <tora>2780.0</tora>
+                    <asda>2780.0</asda>
+                    <lda>2780.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>293.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3073.0</toda>
+                <tora>2780.0</tora>
+                <asda>2780.0</asda>
+                <lda>2780.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>293.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3073.0</toda>
+                    <tora>2780.0</tora>
+                    <asda>2780.0</asda>
+                    <lda>2780.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>293.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3141.0</toda>
+                <tora>2779.0</tora>
+                <asda>2779.0</asda>
+                <lda>2779.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>362.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3141.0</toda>
+                <tora>2779.0</tora>
+                <asda>2779.0</asda>
+                <lda>2779.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>362.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3141.0</toda>
+                    <tora>2779.0</tora>
+                    <asda>2779.0</asda>
+                    <lda>2779.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>362.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3141.0</toda>
+                <tora>2779.0</tora>
+                <asda>2779.0</asda>
+                <lda>2779.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>362.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3141.0</toda>
+                    <tora>2779.0</tora>
+                    <asda>2779.0</asda>
+                    <lda>2779.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>362.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3141.0</toda>
+                <tora>2779.0</tora>
+                <asda>2779.0</asda>
+                <lda>2779.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>362.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3141.0</toda>
+                    <tora>2779.0</tora>
+                    <asda>2779.0</asda>
+                    <lda>2779.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>362.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3141.0</toda>
+                <tora>2779.0</tora>
+                <asda>2779.0</asda>
+                <lda>2779.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>362.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3141.0</toda>
+                    <tora>2779.0</tora>
+                    <asda>2779.0</asda>
+                    <lda>2779.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>362.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>17</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>1889.0</toda>
+                <tora>1791.0</tora>
+                <asda>1791.0</asda>
+                <lda>1791.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>98.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>1889.0</toda>
+                <tora>1791.0</tora>
+                <asda>1791.0</asda>
+                <lda>1791.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>98.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1889.0</toda>
+                    <tora>1791.0</tora>
+                    <asda>1791.0</asda>
+                    <lda>1791.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>98.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>1889.0</toda>
+                <tora>1791.0</tora>
+                <asda>1791.0</asda>
+                <lda>1791.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>98.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1889.0</toda>
+                    <tora>1791.0</tora>
+                    <asda>1791.0</asda>
+                    <lda>1791.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>98.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>1889.0</toda>
+                <tora>1791.0</tora>
+                <asda>1791.0</asda>
+                <lda>1791.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>98.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1889.0</toda>
+                    <tora>1791.0</tora>
+                    <asda>1791.0</asda>
+                    <lda>1791.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>98.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>1889.0</toda>
+                <tora>1791.0</tora>
+                <asda>1791.0</asda>
+                <lda>1791.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>98.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1889.0</toda>
+                    <tora>1791.0</tora>
+                    <asda>1791.0</asda>
+                    <lda>1791.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>98.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>2111.0</toda>
+                <tora>1891.0</tora>
+                <asda>1891.0</asda>
+                <lda>1799.0</lda>
+                <displacedThreshold>92.0</displacedThreshold>
+                <clearway>220.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>2111.0</toda>
+                <tora>1891.0</tora>
+                <asda>1891.0</asda>
+                <lda>1799.0</lda>
+                <displacedThreshold>92.0</displacedThreshold>
+                <clearway>220.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2111.0</toda>
+                    <tora>1891.0</tora>
+                    <asda>1891.0</asda>
+                    <lda>1799.0</lda>
+                    <displacedThreshold>92.0</displacedThreshold>
+                    <clearway>220.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>2111.0</toda>
+                <tora>1891.0</tora>
+                <asda>1891.0</asda>
+                <lda>1799.0</lda>
+                <displacedThreshold>92.0</displacedThreshold>
+                <clearway>220.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2111.0</toda>
+                    <tora>1891.0</tora>
+                    <asda>1891.0</asda>
+                    <lda>1799.0</lda>
+                    <displacedThreshold>92.0</displacedThreshold>
+                    <clearway>220.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>2111.0</toda>
+                <tora>1891.0</tora>
+                <asda>1891.0</asda>
+                <lda>1799.0</lda>
+                <displacedThreshold>92.0</displacedThreshold>
+                <clearway>220.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2111.0</toda>
+                    <tora>1891.0</tora>
+                    <asda>1891.0</asda>
+                    <lda>1799.0</lda>
+                    <displacedThreshold>92.0</displacedThreshold>
+                    <clearway>220.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>2111.0</toda>
+                <tora>1891.0</tora>
+                <asda>1891.0</asda>
+                <lda>1799.0</lda>
+                <displacedThreshold>92.0</displacedThreshold>
+                <clearway>220.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2111.0</toda>
+                    <tora>1891.0</tora>
+                    <asda>1891.0</asda>
+                    <lda>1799.0</lda>
+                    <displacedThreshold>92.0</displacedThreshold>
+                    <clearway>220.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Southampton</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>2</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>1831.0</toda>
+                <tora>1723.0</tora>
+                <asda>1723.0</asda>
+                <lda>1650.0</lda>
+                <displacedThreshold>73.0</displacedThreshold>
+                <clearway>108.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>1831.0</toda>
+                <tora>1723.0</tora>
+                <asda>1723.0</asda>
+                <lda>1650.0</lda>
+                <displacedThreshold>73.0</displacedThreshold>
+                <clearway>108.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1831.0</toda>
+                    <tora>1723.0</tora>
+                    <asda>1723.0</asda>
+                    <lda>1650.0</lda>
+                    <displacedThreshold>73.0</displacedThreshold>
+                    <clearway>108.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>1831.0</toda>
+                <tora>1723.0</tora>
+                <asda>1723.0</asda>
+                <lda>1650.0</lda>
+                <displacedThreshold>73.0</displacedThreshold>
+                <clearway>108.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1831.0</toda>
+                    <tora>1723.0</tora>
+                    <asda>1723.0</asda>
+                    <lda>1650.0</lda>
+                    <displacedThreshold>73.0</displacedThreshold>
+                    <clearway>108.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>1831.0</toda>
+                <tora>1723.0</tora>
+                <asda>1723.0</asda>
+                <lda>1650.0</lda>
+                <displacedThreshold>73.0</displacedThreshold>
+                <clearway>108.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1831.0</toda>
+                    <tora>1723.0</tora>
+                    <asda>1723.0</asda>
+                    <lda>1650.0</lda>
+                    <displacedThreshold>73.0</displacedThreshold>
+                    <clearway>108.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>1831.0</toda>
+                <tora>1723.0</tora>
+                <asda>1723.0</asda>
+                <lda>1650.0</lda>
+                <displacedThreshold>73.0</displacedThreshold>
+                <clearway>108.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1831.0</toda>
+                    <tora>1723.0</tora>
+                    <asda>1723.0</asda>
+                    <lda>1650.0</lda>
+                    <displacedThreshold>73.0</displacedThreshold>
+                    <clearway>108.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>1805.0</toda>
+                <tora>1650.0</tora>
+                <asda>1650.0</asda>
+                <lda>1605.0</lda>
+                <displacedThreshold>45.0</displacedThreshold>
+                <clearway>155.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>1805.0</toda>
+                <tora>1650.0</tora>
+                <asda>1650.0</asda>
+                <lda>1605.0</lda>
+                <displacedThreshold>45.0</displacedThreshold>
+                <clearway>155.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1805.0</toda>
+                    <tora>1650.0</tora>
+                    <asda>1650.0</asda>
+                    <lda>1605.0</lda>
+                    <displacedThreshold>45.0</displacedThreshold>
+                    <clearway>155.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>1805.0</toda>
+                <tora>1650.0</tora>
+                <asda>1650.0</asda>
+                <lda>1605.0</lda>
+                <displacedThreshold>45.0</displacedThreshold>
+                <clearway>155.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1805.0</toda>
+                    <tora>1650.0</tora>
+                    <asda>1650.0</asda>
+                    <lda>1605.0</lda>
+                    <displacedThreshold>45.0</displacedThreshold>
+                    <clearway>155.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>1805.0</toda>
+                <tora>1650.0</tora>
+                <asda>1650.0</asda>
+                <lda>1605.0</lda>
+                <displacedThreshold>45.0</displacedThreshold>
+                <clearway>155.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1805.0</toda>
+                    <tora>1650.0</tora>
+                    <asda>1650.0</asda>
+                    <lda>1605.0</lda>
+                    <displacedThreshold>45.0</displacedThreshold>
+                    <clearway>155.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>1805.0</toda>
+                <tora>1650.0</tora>
+                <asda>1650.0</asda>
+                <lda>1605.0</lda>
+                <displacedThreshold>45.0</displacedThreshold>
+                <clearway>155.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>1805.0</toda>
+                    <tora>1650.0</tora>
+                    <asda>1650.0</asda>
+                    <lda>1605.0</lda>
+                    <displacedThreshold>45.0</displacedThreshold>
+                    <clearway>155.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Birmingham</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>15</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3063.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2580.0</lda>
+                <displacedThreshold>423.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3063.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2580.0</lda>
+                <displacedThreshold>423.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3063.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2580.0</lda>
+                    <displacedThreshold>423.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3063.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2580.0</lda>
+                <displacedThreshold>423.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3063.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2580.0</lda>
+                    <displacedThreshold>423.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3063.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2580.0</lda>
+                <displacedThreshold>423.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3063.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2580.0</lda>
+                    <displacedThreshold>423.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3063.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2580.0</lda>
+                <displacedThreshold>423.0</displacedThreshold>
+                <clearway>60.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3063.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2580.0</lda>
+                    <displacedThreshold>423.0</displacedThreshold>
+                    <clearway>60.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3196.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2449.0</lda>
+                <displacedThreshold>554.0</displacedThreshold>
+                <clearway>193.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3196.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2449.0</lda>
+                <displacedThreshold>554.0</displacedThreshold>
+                <clearway>193.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3196.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2449.0</lda>
+                    <displacedThreshold>554.0</displacedThreshold>
+                    <clearway>193.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3196.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2449.0</lda>
+                <displacedThreshold>554.0</displacedThreshold>
+                <clearway>193.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3196.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2449.0</lda>
+                    <displacedThreshold>554.0</displacedThreshold>
+                    <clearway>193.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3196.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2449.0</lda>
+                <displacedThreshold>554.0</displacedThreshold>
+                <clearway>193.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3196.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2449.0</lda>
+                    <displacedThreshold>554.0</displacedThreshold>
+                    <clearway>193.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3196.0</toda>
+                <tora>3003.0</tora>
+                <asda>3003.0</asda>
+                <lda>2449.0</lda>
+                <displacedThreshold>554.0</displacedThreshold>
+                <clearway>193.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3196.0</toda>
+                    <tora>3003.0</tora>
+                    <asda>3003.0</asda>
+                    <lda>2449.0</lda>
+                    <displacedThreshold>554.0</displacedThreshold>
+                    <clearway>193.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Gatwick</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>8</angle>
+                <position>RIGHT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3311.0</toda>
+                <tora>3159.0</tora>
+                <asda>3233.0</asda>
+                <lda>2765.0</lda>
+                <displacedThreshold>394.0</displacedThreshold>
+                <clearway>152.0</clearway>
+                <stopway>74.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3311.0</toda>
+                <tora>3159.0</tora>
+                <asda>3233.0</asda>
+                <lda>2765.0</lda>
+                <displacedThreshold>394.0</displacedThreshold>
+                <clearway>152.0</clearway>
+                <stopway>74.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3311.0</toda>
+                    <tora>3159.0</tora>
+                    <asda>3233.0</asda>
+                    <lda>2765.0</lda>
+                    <displacedThreshold>394.0</displacedThreshold>
+                    <clearway>152.0</clearway>
+                    <stopway>74.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3311.0</toda>
+                <tora>3159.0</tora>
+                <asda>3233.0</asda>
+                <lda>2765.0</lda>
+                <displacedThreshold>394.0</displacedThreshold>
+                <clearway>152.0</clearway>
+                <stopway>74.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3311.0</toda>
+                    <tora>3159.0</tora>
+                    <asda>3233.0</asda>
+                    <lda>2765.0</lda>
+                    <displacedThreshold>394.0</displacedThreshold>
+                    <clearway>152.0</clearway>
+                    <stopway>74.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3311.0</toda>
+                <tora>3159.0</tora>
+                <asda>3233.0</asda>
+                <lda>2765.0</lda>
+                <displacedThreshold>394.0</displacedThreshold>
+                <clearway>152.0</clearway>
+                <stopway>74.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3311.0</toda>
+                    <tora>3159.0</tora>
+                    <asda>3233.0</asda>
+                    <lda>2765.0</lda>
+                    <displacedThreshold>394.0</displacedThreshold>
+                    <clearway>152.0</clearway>
+                    <stopway>74.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3311.0</toda>
+                <tora>3159.0</tora>
+                <asda>3233.0</asda>
+                <lda>2765.0</lda>
+                <displacedThreshold>394.0</displacedThreshold>
+                <clearway>152.0</clearway>
+                <stopway>74.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3311.0</toda>
+                    <tora>3159.0</tora>
+                    <asda>3233.0</asda>
+                    <lda>2765.0</lda>
+                    <displacedThreshold>394.0</displacedThreshold>
+                    <clearway>152.0</clearway>
+                    <stopway>74.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3399.0</toda>
+                <tora>3255.0</tora>
+                <asda>3317.0</asda>
+                <lda>2830.0</lda>
+                <displacedThreshold>425.0</displacedThreshold>
+                <clearway>144.0</clearway>
+                <stopway>62.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3399.0</toda>
+                <tora>3255.0</tora>
+                <asda>3317.0</asda>
+                <lda>2830.0</lda>
+                <displacedThreshold>425.0</displacedThreshold>
+                <clearway>144.0</clearway>
+                <stopway>62.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3399.0</toda>
+                    <tora>3255.0</tora>
+                    <asda>3317.0</asda>
+                    <lda>2830.0</lda>
+                    <displacedThreshold>425.0</displacedThreshold>
+                    <clearway>144.0</clearway>
+                    <stopway>62.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3399.0</toda>
+                <tora>3255.0</tora>
+                <asda>3317.0</asda>
+                <lda>2830.0</lda>
+                <displacedThreshold>425.0</displacedThreshold>
+                <clearway>144.0</clearway>
+                <stopway>62.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3399.0</toda>
+                    <tora>3255.0</tora>
+                    <asda>3317.0</asda>
+                    <lda>2830.0</lda>
+                    <displacedThreshold>425.0</displacedThreshold>
+                    <clearway>144.0</clearway>
+                    <stopway>62.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3399.0</toda>
+                <tora>3255.0</tora>
+                <asda>3317.0</asda>
+                <lda>2830.0</lda>
+                <displacedThreshold>425.0</displacedThreshold>
+                <clearway>144.0</clearway>
+                <stopway>62.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3399.0</toda>
+                    <tora>3255.0</tora>
+                    <asda>3317.0</asda>
+                    <lda>2830.0</lda>
+                    <displacedThreshold>425.0</displacedThreshold>
+                    <clearway>144.0</clearway>
+                    <stopway>62.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3399.0</toda>
+                <tora>3255.0</tora>
+                <asda>3317.0</asda>
+                <lda>2830.0</lda>
+                <displacedThreshold>425.0</displacedThreshold>
+                <clearway>144.0</clearway>
+                <stopway>62.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3399.0</toda>
+                    <tora>3255.0</tora>
+                    <asda>3317.0</asda>
+                    <lda>2830.0</lda>
+                    <displacedThreshold>425.0</displacedThreshold>
+                    <clearway>144.0</clearway>
+                    <stopway>62.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>8</angle>
+                <position>LEFT</position>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3040.0</toda>
+                <tora>2561.0</tora>
+                <asda>2561.0</asda>
+                <lda>2241.0</lda>
+                <displacedThreshold>320.0</displacedThreshold>
+                <clearway>479.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3040.0</toda>
+                <tora>2561.0</tora>
+                <asda>2561.0</asda>
+                <lda>2241.0</lda>
+                <displacedThreshold>320.0</displacedThreshold>
+                <clearway>479.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3040.0</toda>
+                    <tora>2561.0</tora>
+                    <asda>2561.0</asda>
+                    <lda>2241.0</lda>
+                    <displacedThreshold>320.0</displacedThreshold>
+                    <clearway>479.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3040.0</toda>
+                <tora>2561.0</tora>
+                <asda>2561.0</asda>
+                <lda>2241.0</lda>
+                <displacedThreshold>320.0</displacedThreshold>
+                <clearway>479.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3040.0</toda>
+                    <tora>2561.0</tora>
+                    <asda>2561.0</asda>
+                    <lda>2241.0</lda>
+                    <displacedThreshold>320.0</displacedThreshold>
+                    <clearway>479.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3040.0</toda>
+                <tora>2561.0</tora>
+                <asda>2561.0</asda>
+                <lda>2241.0</lda>
+                <displacedThreshold>320.0</displacedThreshold>
+                <clearway>479.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3040.0</toda>
+                    <tora>2561.0</tora>
+                    <asda>2561.0</asda>
+                    <lda>2241.0</lda>
+                    <displacedThreshold>320.0</displacedThreshold>
+                    <clearway>479.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3040.0</toda>
+                <tora>2561.0</tora>
+                <asda>2561.0</asda>
+                <lda>2241.0</lda>
+                <displacedThreshold>320.0</displacedThreshold>
+                <clearway>479.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3040.0</toda>
+                    <tora>2561.0</tora>
+                    <asda>2561.0</asda>
+                    <lda>2241.0</lda>
+                    <displacedThreshold>320.0</displacedThreshold>
+                    <clearway>479.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>2657.0</toda>
+                <tora>2515.0</tora>
+                <asda>2515.0</asda>
+                <lda>2146.0</lda>
+                <displacedThreshold>369.0</displacedThreshold>
+                <clearway>142.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>2657.0</toda>
+                <tora>2515.0</tora>
+                <asda>2515.0</asda>
+                <lda>2146.0</lda>
+                <displacedThreshold>369.0</displacedThreshold>
+                <clearway>142.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2657.0</toda>
+                    <tora>2515.0</tora>
+                    <asda>2515.0</asda>
+                    <lda>2146.0</lda>
+                    <displacedThreshold>369.0</displacedThreshold>
+                    <clearway>142.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>2657.0</toda>
+                <tora>2515.0</tora>
+                <asda>2515.0</asda>
+                <lda>2146.0</lda>
+                <displacedThreshold>369.0</displacedThreshold>
+                <clearway>142.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2657.0</toda>
+                    <tora>2515.0</tora>
+                    <asda>2515.0</asda>
+                    <lda>2146.0</lda>
+                    <displacedThreshold>369.0</displacedThreshold>
+                    <clearway>142.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>2657.0</toda>
+                <tora>2515.0</tora>
+                <asda>2515.0</asda>
+                <lda>2146.0</lda>
+                <displacedThreshold>369.0</displacedThreshold>
+                <clearway>142.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2657.0</toda>
+                    <tora>2515.0</tora>
+                    <asda>2515.0</asda>
+                    <lda>2146.0</lda>
+                    <displacedThreshold>369.0</displacedThreshold>
+                    <clearway>142.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>2657.0</toda>
+                <tora>2515.0</tora>
+                <asda>2515.0</asda>
+                <lda>2146.0</lda>
+                <displacedThreshold>369.0</displacedThreshold>
+                <clearway>142.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2657.0</toda>
+                    <tora>2515.0</tora>
+                    <asda>2515.0</asda>
+                    <lda>2146.0</lda>
+                    <displacedThreshold>369.0</displacedThreshold>
+                    <clearway>142.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Luton</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>7</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2162.0</asda>
+                <lda>2162.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2162.0</asda>
+                <lda>2162.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2162.0</asda>
+                    <lda>2162.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2162.0</asda>
+                <lda>2162.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2162.0</asda>
+                    <lda>2162.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2162.0</asda>
+                <lda>2162.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2162.0</asda>
+                    <lda>2162.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2162.0</asda>
+                <lda>2162.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2162.0</asda>
+                    <lda>2162.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2219.0</asda>
+                <lda>2080.0</lda>
+                <displacedThreshold>82.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>57.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2219.0</asda>
+                <lda>2080.0</lda>
+                <displacedThreshold>82.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>57.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2219.0</asda>
+                    <lda>2080.0</lda>
+                    <displacedThreshold>82.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>57.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2219.0</asda>
+                <lda>2080.0</lda>
+                <displacedThreshold>82.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>57.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2219.0</asda>
+                    <lda>2080.0</lda>
+                    <displacedThreshold>82.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>57.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2219.0</asda>
+                <lda>2080.0</lda>
+                <displacedThreshold>82.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>57.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2219.0</asda>
+                    <lda>2080.0</lda>
+                    <displacedThreshold>82.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>57.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3243.0</toda>
+                <tora>2162.0</tora>
+                <asda>2219.0</asda>
+                <lda>2080.0</lda>
+                <displacedThreshold>82.0</displacedThreshold>
+                <clearway>1081.0</clearway>
+                <stopway>57.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3243.0</toda>
+                    <tora>2162.0</tora>
+                    <asda>2219.0</asda>
+                    <lda>2080.0</lda>
+                    <displacedThreshold>82.0</displacedThreshold>
+                    <clearway>1081.0</clearway>
+                    <stopway>57.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Bristol</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>9</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>2133.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>2011.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>122.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>2133.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>2011.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>122.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2133.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>2011.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>122.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>2133.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>2011.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>122.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2133.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>2011.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>122.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>2133.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>2011.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>122.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2133.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>2011.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>122.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>2133.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>2011.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>122.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>2133.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>2011.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>122.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3016.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>1882.0</lda>
+                <displacedThreshold>129.0</displacedThreshold>
+                <clearway>1005.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3016.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>1882.0</lda>
+                <displacedThreshold>129.0</displacedThreshold>
+                <clearway>1005.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3016.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>1882.0</lda>
+                    <displacedThreshold>129.0</displacedThreshold>
+                    <clearway>1005.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3016.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>1882.0</lda>
+                <displacedThreshold>129.0</displacedThreshold>
+                <clearway>1005.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3016.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>1882.0</lda>
+                    <displacedThreshold>129.0</displacedThreshold>
+                    <clearway>1005.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3016.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>1882.0</lda>
+                <displacedThreshold>129.0</displacedThreshold>
+                <clearway>1005.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3016.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>1882.0</lda>
+                    <displacedThreshold>129.0</displacedThreshold>
+                    <clearway>1005.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3016.0</toda>
+                <tora>2011.0</tora>
+                <asda>2011.0</asda>
+                <lda>1882.0</lda>
+                <displacedThreshold>129.0</displacedThreshold>
+                <clearway>1005.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3016.0</toda>
+                    <tora>2011.0</tora>
+                    <asda>2011.0</asda>
+                    <lda>1882.0</lda>
+                    <displacedThreshold>129.0</displacedThreshold>
+                    <clearway>1005.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+    <Airport>
+        <Name>Stansted</Name>
+        <PhysicalRunway>
+            <RunwayId>
+                <angle>4</angle>
+            </RunwayId>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3338.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>2749.0</lda>
+                <displacedThreshold>300.0</displacedThreshold>
+                <clearway>289.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3338.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>2749.0</lda>
+                <displacedThreshold>300.0</displacedThreshold>
+                <clearway>289.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3338.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>2749.0</lda>
+                    <displacedThreshold>300.0</displacedThreshold>
+                    <clearway>289.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3338.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>2749.0</lda>
+                <displacedThreshold>300.0</displacedThreshold>
+                <clearway>289.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3338.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>2749.0</lda>
+                    <displacedThreshold>300.0</displacedThreshold>
+                    <clearway>289.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3338.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>2749.0</lda>
+                <displacedThreshold>300.0</displacedThreshold>
+                <clearway>289.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3338.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>2749.0</lda>
+                    <displacedThreshold>300.0</displacedThreshold>
+                    <clearway>289.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <SmallerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3338.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>2749.0</lda>
+                <displacedThreshold>300.0</displacedThreshold>
+                <clearway>289.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3338.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>2749.0</lda>
+                    <displacedThreshold>300.0</displacedThreshold>
+                    <clearway>289.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </SmallerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayOriginal">
+                <toda>3316.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>3049.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>267.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingTowards">
+                <toda>3316.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>3049.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>267.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3316.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>3049.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>267.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayLandingOver">
+                <toda>3316.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>3049.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>267.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3316.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>3049.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>267.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffAwayFrom">
+                <toda>3316.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>3049.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>267.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3316.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>3049.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>267.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+            <LargerRunway xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="runwayTakeOffTowards">
+                <toda>3316.0</toda>
+                <tora>3049.0</tora>
+                <asda>3049.0</asda>
+                <lda>3049.0</lda>
+                <displacedThreshold>0.0</displacedThreshold>
+                <clearway>267.0</clearway>
+                <stopway>0.0</stopway>
+                <resa>0.0</resa>
+                <originalRunway xsi:type="runwayOriginal">
+                    <toda>3316.0</toda>
+                    <tora>3049.0</tora>
+                    <asda>3049.0</asda>
+                    <lda>3049.0</lda>
+                    <displacedThreshold>0.0</displacedThreshold>
+                    <clearway>267.0</clearway>
+                    <stopway>0.0</stopway>
+                    <resa>0.0</resa>
+                </originalRunway>
+            </LargerRunway>
+        </PhysicalRunway>
+    </Airport>
+</Airports>

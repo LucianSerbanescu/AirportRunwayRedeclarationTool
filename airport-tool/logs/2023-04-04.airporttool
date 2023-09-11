@@ -1,0 +1,27 @@
+[2023-04-04 17:29:47.449] - Airport Tool Launched
+[2023-04-04 17:48:07.305] - Loaded Airport: Bristol
+[2023-04-04 17:48:48.753] - Runway Parameters Updated: Landing Towards - LDA = 1.00, DT = 0.00
+[2023-04-04 17:48:48.760] - New Runway Added: ID - 09L, TODA - 1.00, ASDA - 1.00, TORA - 1.00, LDA - 1.00
+ID - 27R, TODA - 1.00, ASDA - 1.00, TORA - 1.00, LDA - 1.00
+[2023-04-04 17:48:58.818] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1000.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-04-04 17:50:39.051] - Airport Saved - Bristol, Scene Changed to Main Menu
+[2023-04-04 17:50:52.620] - Airport Exported: Gatwick
+[2023-04-04 17:51:12.655] - Loaded Airport: Gatwick
+[2023-04-04 17:51:16.569] - New Runway Selected
+ID - 08L, TODA - 3040.00, ASDA - 2561.00, TORA - 2561.00, LDA - 2241.00
+ID - 26R, TODA - 2657.00, ASDA - 2515.00, TORA - 2515.00, LDA - 2146.00
+[2023-04-04 17:51:16.582] - Runway Parameters Updated: Landing Towards - LDA = 2241.00, DT = 320.00
+[2023-04-04 17:51:47.126] - Runway Parameters Updated: Landing Over - LDA = 2241.00, DT = 320.00
+[2023-04-04 17:51:48.046] - Runway Parameters Updated: Take-off Away From - TODA = 3040.00, ASDA = 2561.00, TORA = 2561.00
+[2023-04-04 17:51:48.455] - Runway Parameters Updated: Take-off Towards - TODA = 3040.00, ASDA = 2561.00, TORA = 2561.00
+[2023-04-04 17:51:49.882] - Runway Parameters Updated: Landing Towards - LDA = 2241.00, DT = 320.00
+[2023-04-04 17:51:50.471] - Runway Parameters Updated: Landing Over - LDA = 2241.00, DT = 320.00
+[2023-04-04 17:51:51.107] - Runway Parameters Updated: Take-off Away From - TODA = 3040.00, ASDA = 2561.00, TORA = 2561.00
+[2023-04-04 17:51:51.459] - Runway Parameters Updated: Take-off Towards - TODA = 3040.00, ASDA = 2561.00, TORA = 2561.00
+[2023-04-04 17:51:51.967] - Runway Parameters Updated: Landing Over - LDA = 2241.00, DT = 320.00
+[2023-04-04 17:51:52.886] - Runway Parameters Updated: Landing Towards - LDA = 2241.00, DT = 320.00
+[2023-04-04 17:51:53.763] - Runway Parameters Updated: Take-off Away From - TODA = 3040.00, ASDA = 2561.00, TORA = 2561.00
+[2023-04-04 17:51:54.110] - Runway Parameters Updated: Take-off Towards - TODA = 3040.00, ASDA = 2561.00, TORA = 2561.00
+[2023-04-04 17:51:55.146] - Runway Parameters Updated: Landing Towards - LDA = 2241.00, DT = 320.00
+[2023-04-04 17:52:09.186] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1000.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-04-04 17:52:59.474] - Airport Tool Launched

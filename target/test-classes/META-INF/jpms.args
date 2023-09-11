@@ -1,0 +1,4 @@
+--patch-module
+com.group17.seg=_
+--add-reads
+com.group17.seg=ALL-UNNAMED

@@ -1,0 +1,777 @@
+/*
+SOME KEY CLASSES :
+BUTTONS : basic-label-button (used for all buttons)
+TOP-RIGHT 4SET OF BUTTONS : toggle-button-view-selection
+ALL ITEMS IN A LIST (ANYLIST) : listItem
+*/
+
+.text-highlight {
+    -fx-highlight-fill: lightblue;
+    -fx-highlight-text-fill: black;
+}
+
+.window {
+    -fx-background-color: #e5e5e5;
+}
+
+.gridpane-loadairport {
+    -fx-background-color: #e5e5e5;
+    -fx-alignment: top-center;
+}
+
+.title {
+    -fx-text-fill: #2d343b;
+    -fx-font-weight: bold;
+    -fx-font-size: 28px;
+    -fx-font-family: 'USN_Stencil';
+    -fx-padding: 8;
+    -fx-text-alignment: center;
+}
+
+.airport-name {
+    -fx-text-fill: #2d343b;
+    -fx-font-weight: bold;
+    -fx-font-size: 38px;
+    -fx-font-family: 'USN_Stencil';
+    -fx-padding: 2px;
+    -fx-text-alignment: center;
+}
+
+.boxes-load-airport-ui {
+    -fx-background-color: #e5e5e5;
+    -fx-alignment: top-center;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.rotatebutton {
+    -fx-alignment: center;
+    -fx-background-color: #2D343B;
+    -fx-border-color: black;
+    -fx-min-width: 2cm;
+    -fx-min-height: 19px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 12;
+    -fx-max-width: 2cm;
+}
+.rotatebutton:selected {
+    -fx-alignment: center;
+    -fx-background-color: #ef7d65;
+    -fx-border-color: black;
+    -fx-text-fill: black;
+    -fx-min-width: 2cm;
+    -fx-min-height: 19px;
+    -fx-font-weight: bold;
+    -fx-font-size: 12;
+    -fx-max-width: 2cm;
+}
+
+.toggle-button-runway-selection {
+    -fx-alignment: center;
+    -fx-background-color: #2D343B;
+    -fx-border-color: black;
+    -fx-min-width: 1.5cm;
+    -fx-min-height: 32px;
+    -fx-text-fill: white;
+    -fx-font-family: "USN_Stencil";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+}
+
+.toggle-button-runway-selection:selected {
+    -fx-background-color: #ef7d65;
+    -fx-border-color: black;
+    -fx-text-fill: black;
+}
+
+.toggle-button-runway-selection:hover {
+    -fx-opacity: 0.9;
+    -fx-translate-y: -1;
+}
+
+/* css for top right toggle button */
+.toggle-button-view-selection {
+    -fx-alignment: center;
+    -fx-background-color: #e5e5e5;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 2px;
+    -fx-border-width: 1px;
+    -fx-border-insets: 0 -0.5 0 -0.5;
+    -fx-border-color: black;
+    -fx-min-height: 32px;
+    -fx-min-width: 2.8cm;
+    -fx-text-fill: black;
+    -fx-font-family: Arial;
+    -fx-font-weight: 700;
+    -fx-font-size: 12px;
+    -fx-label-padding: 9px;
+}
+
+.toggle-button-view-selection:selected {
+    -fx-background-color: #5b7d82;
+    -fx-text-fill: white;
+}
+
+.toggle-button-view-selection:hover {
+    -fx-opacity: 0.9;
+    -fx-translate-y: -2px;
+}
+
+.button-runway-table-active-save {
+    -fx-background-color: #38A03C;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-font-family: "Arial";
+    -fx-padding: 8px;
+    -fx-background-radius: 2px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 3px;
+    -fx-border-insets: -1px;
+    -fx-min-width: 2cm;
+    -fx-alignment: center;
+}
+
+.button-runway-table-active-save:hover {
+    -fx-opacity: 0.9;
+    -fx-translate-y: -0.2;
+}
+
+.button-runway-table-active-back {
+    -fx-background-color: #BF3838;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-font-family: "Arial";
+    -fx-padding: 8px;
+    -fx-background-radius: 2px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 2px;
+    -fx-border-insets: -1px;
+    -fx-min-width: 2cm;
+    -fx-alignment: center;
+}
+
+.button-runway-table-active-back:hover {
+    -fx-opacity: 0.9;
+    -fx-translate-y: -0.2;
+}
+
+
+.basic-label-button {
+    -fx-background-color: #2d343b;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-padding: 8px;
+    -fx-background-radius: 5px;
+    -fx-min-width: 2cm;
+    -fx-alignment: center;
+}
+
+
+.basic-label-button:hover {
+    -fx-opacity: 0.9;
+    -fx-translate-y: -0.2;
+}
+
+.basic-label-button:disabled {
+    -fx-opacity: 0.4;
+}
+
+.button-loadairportui-left-pane-blue-buttons:disabled {
+    -fx-opacity: 0.4;
+}
+
+.button-compare-table-show-breakdown {
+    -fx-background-color: #5c7e82;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-font-family: "Arial";
+    -fx-padding: 8px;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-border-width: 2px;
+    -fx-min-width: 2cm;
+    -fx-alignment: center;
+}
+
+.button-compare-table-show-breakdown:hover {
+    -fx-opacity: 0.9;
+    -fx-translate-y: -0.2;
+}
+
+.button-compare-table-show-breakdown:disabled {
+    -fx-opacity: 0.4;
+}
+
+.button-backsave {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 8px;
+    /*-fx-min-width: 2cm;*/
+    -fx-alignment: center;
+}
+
+.button-backsave {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+    -fx-font-family: "USN_Stencil";
+    -fx-padding: 10px;
+    -fx-background-radius: 10px;
+    -fx-min-width: 2cm;
+    -fx-alignment: center;
+}
+
+.grid {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: blue;
+    -fx-font-size: 18px;
+    -fx-font-family: "USN_Stencil";
+    -fx-padding: 7px;
+    -fx-background-radius: 5px;
+}
+
+.gridpane-calc-breakdown {
+    -fx-background-color: white;
+}
+
+.gridpane-runway-compare {
+    -fx-alignment: center;
+}
+
+.label-compare-table-firstrow {
+    -fx-font-family: "Inconsolata";
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 5px;
+    -fx-border-radius: 5;
+}
+
+.label-compare-table-odd {
+    -fx-font-family: "Inconsolata";
+    -fx-font-size: 20px;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-padding: 5px;
+    -fx-border-radius: 5;
+}
+
+.label-compare-table-even {
+    -fx-font-size: 20px;
+    -fx-font-family: "Inconsolata";
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-padding: 5px;
+    -fx-border-radius: 5;
+}
+
+.vbox-compare-table-firstrow {
+    -fx-alignment: center;
+    -fx-background-color: #2d343b;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-insets: -1px;
+}
+
+.vbox-compare-table-odd {
+    -fx-alignment: center;
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-insets: -1px;
+}
+
+.vbox-compare-table-even {
+    -fx-alignment: center;
+    -fx-background-color: #fff1ea;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-insets: -1px;
+}
+
+.vbox-compare-table-topleft {
+    -fx-border-radius: 5 0 0 0;
+    -fx-background-radius: 5 0 0 0;
+}
+
+.vbox-compare-table-topright {
+    -fx-border-radius: 0 5 0 0;
+    -fx-background-radius: 0 5 0 0;
+}
+
+.vbox-compare-table-bottomleft {
+    -fx-border-radius: 0 0 0 5;
+    -fx-background-radius: 0 0 0 5;
+}
+
+.vbox-compare-table-bottomright {
+    -fx-border-radius: 0 0 5 0;
+    -fx-background-radius: 0 0 5 0;
+}
+
+.text-field-runway-edit {
+    -fx-alignment: center;
+    -fx-pref-width: 2.5cm;
+    -fx-font-size: 18px;
+}
+
+.label-calc-breakdown-gridpane {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+}
+
+.label-obstacle-parameter-gridpane {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-padding: 5px;;
+}
+
+.label-obstacle-parameter-gridpane:error {
+    -fx-graphic: url(icons/red-error.png);
+}
+
+.label-x-y {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-padding: 5px;
+}
+
+.label-x-y:error {
+    -fx-graphic: url(icons/red-error.png);
+}
+
+.label-obstacle-parameter-gridpane-small {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+}
+
+.label-obstacle-parameter-gridpane-smaller {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+}
+
+.textfield-obstacle-parameter-gridpane {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-background-color: #D9D9D9;
+    -fx-border-radius: 2px;
+    -fx-border-color: black;
+    -fx-padding: 5px;
+    -fx-max-width: 200px;
+    -fx-graphic: none;
+}
+
+.textfield-obstacle-parameter-gridpane:error {
+    -fx-text-fill: black;
+    -fx-background-color: #e87878;
+    -fx-graphic: url(icons/red-error.png);
+}
+
+.label1 {
+    -fx-min-width: 3cm;
+    -fx-alignment: center;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+}
+
+
+.label-calc-breakdown {
+    -fx-min-width: 4.5cm;
+    -fx-alignment: center;
+    -fx-font-size: 18px;
+    -fx-background-color: white;
+    -fx-border-insets: -1px;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-min-height: 28px;
+}
+
+.label-calc-breakdown-boldface {
+    -fx-min-width: 2cm;
+    -fx-alignment: center;
+    -fx-background-color: #F3EAFF;
+    -fx-border-insets: -1px;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-min-height: 28px;
+}
+
+.label-calc-breakdown-toprow {
+    -fx-min-width: 4.5cm;
+    -fx-alignment: center;
+    -fx-background-color: #F3EAFF;
+    -fx-border-insets: -1px;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-min-height: 28px;
+}
+
+.label-obstacle-display {
+    -fx-min-width: 1.2cm;
+    -fx-alignment: center;
+    -fx-font-size: 12px;
+}
+
+.text-field-obstacle-display {
+    -fx-alignment: center;
+    -fx-pref-width: 3cm;
+    -fx-font-size: 12px;
+}
+
+.button-obstacle-display-save {
+    -fx-alignment: center;
+    -fx-background-color: #38A03C;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-font-family: Arial;
+    -fx-padding: 4px;
+    -fx-background-radius: 1px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 1px;
+    -fx-min-width: 2.4cm;
+    -fx-min-height: 0.8cm;
+}
+
+.button-obstacle-display-cancel {
+    -fx-alignment: center;
+    -fx-background-color: #BF3838;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-font-family: Arial;
+    -fx-padding: 4px;
+    -fx-background-radius: 1px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 1px;
+    -fx-min-width: 2.4cm;
+    -fx-min-height: 0.8cm;
+}
+
+.label-runway {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.hbox-selection-buttons {
+    -fx-alignment: center;
+    -fx-padding: 5px;
+    -fx-background-color: #e5e5e5;
+    -fx-background-radius: 5px;
+}
+
+.label-runway-selection-title {
+    -fx-font-weight: bold;
+    -fx-font-family: Arial;
+    -fx-text-fill: white;
+    -fx-padding: 5;
+    -fx-background-color: #2d343b;
+    -fx-alignment: center;
+}
+
+.listItem {
+    -fx-font-family: 'Arial';
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-border: none;
+    -fx-alignment: center;
+    -fx-padding: 5px;
+}
+
+.listItem:hover {
+    -fx-background-color: lightgrey;
+}
+
+.listItem:selected {
+    /*-fx-background-color: #508ca4;*/
+    /*-fx-background-color: #4381c1;*/
+    -fx-background-color: #5b7d82;
+    -fx-text-fill: white;
+}
+
+.toggle-button-loadairportui-list-item {
+    -fx-font-family: Arial;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-border: none;
+    -fx-alignment: center;
+    -fx-padding: 5px;
+    -fx-border-radius: 1px;
+    -fx-border-color: white;
+}
+
+.toggle-button-loadairportui-list-item:hover {
+    -fx-background-color: #DDDDDD;
+}
+
+.toggle-button-loadairportui-list-item:selected {
+    -fx-background-color: #787878;
+    -fx-text-fill: white;
+}
+
+/* calc breakdown button */
+.toggle-button-breakdown-view-selection {
+    -fx-alignment: center;
+    -fx-background-insets: -2px;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-font-family: Arial;
+    -fx-padding: 10px;
+    -fx-border-color: black;
+    -fx-border-insets: 0px;
+}
+
+.toggle-button-breakdown-view-selection:selected {
+    -fx-border-radius: 5px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    //-fx-border-color: white;
+    -fx-border-insets: -2px;
+    -fx-background-color: #5c7e82;
+}
+
+.toggle-button-breakdown-view-selection:hover {
+    -fx-opacity: 9;
+    -fx-color-label-visible: orange;
+    -fx-translate-y: -2;
+    //-fx-background-color: #d0d3d1;
+    -fx-animated: true;
+}
+
+.toggle-button-breakdown-runway-selection {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-background-color: #2D343B;
+    -fx-border-radius: 3px;
+    -fx-border-width: 1px;
+    -fx-border-color: #2D343B;
+    -fx-text-fill: white;
+    -fx-font-size: 30px;
+    -fx-font-weight: 400;
+    -fx-font-family: "USN_Stencil";
+    -fx-background-radius: 3px;
+    -fx-min-width: 2cm;
+    -fx-min-height: 1cm;
+    -fx-padding: 3px;
+}
+
+.toggle-button-breakdown-runway-selection:selected {
+    -fx-background-color: #EF7D65;
+}
+
+.toggle-button-breakdown-runway-selection:hover {
+    -fx-opacity: 0.9;
+}
+
+.button-breakdown-close {
+    -fx-alignment: center;
+    -fx-background-color: #2B476E;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-family: Arial;
+    -fx-font-weight: 600;
+    -fx-background-insets: 5;
+    -fx-padding: 10px;
+    -fx-background-radius: 2px;
+    -fx-min-width: 3cm;
+    -fx-min-height: 1cm;
+}
+
+.button-breakdown-close:hover {
+    -fx-opacity: 0.9;
+}
+
+.BreakDownText {
+    -fx-font-size: 16px;
+    -fx-font-family: Arial;
+    -fx-fill: black;
+}
+
+.scroll-pane-runway-selection {
+    -fx-fit-to-height: true;
+    -fx-fit-to-width: true;
+    -fx-background-color: white;
+    -fx-alignment: top-center;
+}
+
+.rectangle {
+    -fx-background-color: lightgrey;
+}
+
+
+.button-mainmenu-delete {
+    -fx-alignment: center;
+    -fx-background-color: white;
+    -fx-text-fill: #2d343b;
+    -fx-font-size: 15px;
+    -fx-font-family: "Arial";
+    -fx-background-radius: 5px;
+    -fx-font-weight: bold;
+    -fx-min-width: 2.5cm;
+    -fx-min-height: 0.9cm;
+    -fx-padding: 3px;
+}
+
+.button-mainmenu-delete:hover {
+    -fx-opacity: 0.85;
+    -fx-scale-x: 1.03;
+    -fx-scale-y: 1.03;
+}
+
+.button-mainmenu-delete:pressed {
+    -fx-opacity: 0.9;
+    -fx-scale-x: 1.02;
+    -fx-scale-y: 1.02;
+}
+
+.button-mainmenu-delete:disabled {
+    -fx-opacity: 0.4;
+}
+
+
+.buttons-select-airport {
+    -fx-background-color: #2d343b;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: 600;
+    -fx-padding: 8px;
+    -fx-background-radius: 10px;
+    -fx-pref-width: 125px;
+    -fx-pref-height: 125px;
+    -fx-alignment: center;
+    -fx-content-display: top;
+}
+
+.buttons-select-airport:hover {
+    -fx-opacity: 0.85;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.buttons-select-airport:pressed {
+    -fx-opacity: 0.9;
+    -fx-scale-x: 1.03;
+    -fx-scale-y: 1.03;
+}
+
+.buttons-select-airport:disabled {
+    -fx-opacity: 0.4;
+}
+
+.runway-name {
+    -fx-font-size: 20px;
+    -fx-font-family: "USN_Stencil";
+    -fx-fill: white;
+}
+
+.runway-position{
+    -fx-font-size: 18px;
+    -fx-font-family: "USN_Stencil";
+    -fx-fill: white;
+}
+
+
+.scroll-bar:vertical {
+    -fx-background-color: #F1F1F1;
+}
+
+.scroll-pane-runway-display:selected {
+    -fx-highlight-fill: false;
+}
+
+.thumb {
+    -fx-background-color: #C1C1C1;
+    -fx-background-radius: 1px;
+}
+
+.thumb:hover {
+    -fx-background-color: #A8A8A8;
+}
+
+.runwayParameterNameVBox {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-padding: 5px;
+}
+
+.runwayParameterLabel:error {
+    -fx-graphic: url(icons/red-error.png);
+}
+
+.hbox-rename-delete {
+    -fx-alignment: center;
+}
+
+.vbox-select-airport-left {
+    -fx-alignment: center;
+    -fx-background-color: #2d343b;
+    -fx-padding: 70px;
+}
+
+.vbox-select-airport-right {
+    -fx-alignment: center;
+}
+
+.gridpane-select-airport-selection-buttons {
+    -fx-alignment: center;
+}
+
+.label-airport-selection-title {
+    -fx-padding: 15px;
+    -fx-font-family: Arial;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.runwayParameterTextField {
+    -fx-font-family: "Inconsolata Regular";
+    -fx-font-smoothing-type: gray;
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-background-color: #c8c8c8;
+    -fx-border-radius: 2px;
+    -fx-border-color: black;
+    -fx-padding: 5px;
+    -fx-max-width: 90px;
+    -fx-cursor: text;
+}
+
+.runwayParameterTextField:error {
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+    -fx-background-color: #e87878;
+}

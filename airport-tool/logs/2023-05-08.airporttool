@@ -1,0 +1,86 @@
+[2023-05-08 11:00:43.224] - Airport Tool Launched
+[2023-05-08 11:03:03.604] - Loaded Airport: Heathrow
+[2023-05-08 11:03:24.203] - New Runway Selected
+ID - 09R, TODA - 3658.00, ASDA - 3658.00, TORA - 3658.00, LDA - 3350.00
+ID - 27L, TODA - 3658.00, ASDA - 3658.00, TORA - 3658.00, LDA - 3658.00
+[2023-05-08 11:03:24.268] - Runway Parameters Updated: Landing Towards - LDA = 3350.00, DT = 308.00
+[2023-05-08 11:03:28.904] - Airport Saved - Heathrow, Scene Changed to Main Menu
+[2023-05-08 11:03:31.438] - Airport Loaded: Edinburgh
+[2023-05-08 11:03:32.779] - Runway Parameters Updated: Landing Towards - LDA = 2344.00, DT = 212.00
+[2023-05-08 11:03:32.800] - New Runway Selected
+ID - 06, TODA - 2616.00, ASDA - 2616.00, TORA - 2556.00, LDA - 2344.00
+ID - 24, TODA - 3002.00, ASDA - 2614.00, TORA - 2554.00, LDA - 2347.00
+[2023-05-08 11:03:49.413] - Runway Parameters Updated: Landing Towards - LDA = 2347.00, DT = 207.00
+[2023-05-08 11:03:49.964] - Runway Parameters Updated: Landing Towards - LDA = 2344.00, DT = 212.00
+[2023-05-08 11:03:50.439] - Runway Parameters Updated: Landing Towards - LDA = 2347.00, DT = 207.00
+[2023-05-08 11:03:50.968] - Runway Parameters Updated: Landing Towards - LDA = 2344.00, DT = 212.00
+[2023-05-08 11:03:53.360] - Runway Parameters Updated: Landing Towards - LDA = 2347.00, DT = 207.00
+[2023-05-08 11:03:54.028] - Runway Parameters Updated: Landing Towards - LDA = 2344.00, DT = 212.00
+[2023-05-08 11:03:54.780] - Runway Parameters Updated: Landing Towards - LDA = 2347.00, DT = 207.00
+[2023-05-08 11:03:55.792] - Runway Parameters Updated: Landing Towards - LDA = 2344.00, DT = 212.00
+[2023-05-08 11:04:05.364] - Runway Parameters Updated: Landing Towards - LDA = 2347.00, DT = 207.00
+[2023-05-08 11:04:14.983] - Runway Parameters Updated: Landing Towards - LDA = 2344.00, DT = 212.00
+[2023-05-08 11:04:27.160] - Obstacle Added to Runway: Name - Airbus A321-200, x - 0.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:04:57.168] - Obstacle Added to Runway: Name - Airbus A321-200, x - 2000.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:05:08.836] - Runway Parameters Updated: Landing Over - LDA = -328.25, DT = 212.00
+[2023-05-08 11:05:14.360] - Runway Parameters Updated: Take-off Away From - TODA = -118.25, ASDA = -118.25, TORA = -178.25
+[2023-05-08 11:05:16.091] - Runway Parameters Updated: Take-off Towards - TODA = 1539.75, ASDA = 1539.75, TORA = 1539.75
+[2023-05-08 11:05:26.902] - Obstacle Added to Runway: Name - Boeing 787-9, x - 2000.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-05-08 11:05:38.975] - Obstacle Added to Runway: Name - Boeing 787-9, x - 1000.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-05-08 11:06:09.874] - Obstacle Added to Runway: Name - Airbus A320-200, x - 1000.00, y - 0.00, Length - 37.60, Width - 34.10, Height - 11.80
+[2023-05-08 11:06:26.664] - Runway Parameters Updated: Take-off Away From - TODA = 885.20, ASDA = 885.20, TORA = 825.20
+[2023-05-08 11:06:28.428] - Runway Parameters Updated: Landing Over - LDA = 675.20, DT = 212.00
+[2023-05-08 11:06:30.419] - Runway Parameters Updated: Landing Towards - LDA = 681.20, DT = 212.00
+[2023-05-08 11:06:50.850] - Runway Parameters Updated: Landing Towards - LDA = 818.20, DT = 207.00
+[2023-05-08 11:06:51.470] - Runway Parameters Updated: Landing Towards - LDA = 681.20, DT = 212.00
+[2023-05-08 11:06:52.359] - Runway Parameters Updated: Landing Towards - LDA = 818.20, DT = 207.00
+[2023-05-08 11:07:19.193] - Runway Deselected: ID - 06, TODA - 2616.00, ASDA - 2616.00, TORA - 2556.00, LDA - 2344.00
+ID - 24, TODA - 3002.00, ASDA - 2614.00, TORA - 2554.00, LDA - 2347.00
+[2023-05-08 11:07:24.367] - Runway Parameters Updated: Landing Towards - LDA = 818.20, DT = 207.00
+[2023-05-08 11:07:24.401] - New Runway Selected
+ID - 06, TODA - 2616.00, ASDA - 2616.00, TORA - 2556.00, LDA - 2344.00
+ID - 24, TODA - 3002.00, ASDA - 2614.00, TORA - 2554.00, LDA - 2347.00
+[2023-05-08 11:07:56.791] - Airport Saved - Edinburgh, Scene Changed to Main Menu
+[2023-05-08 11:09:47.269] - Airport Tool Launched
+[2023-05-08 11:11:41.317] - Airport Tool Launched
+[2023-05-08 11:11:42.823] - Airport Loaded: Manchester
+[2023-05-08 11:11:43.887] - Runway Parameters Updated: Landing Towards - LDA = 2587.00, DT = 427.00
+[2023-05-08 11:11:43.911] - New Runway Selected
+ID - 05L, TODA - 3229.00, ASDA - 3014.00, TORA - 3014.00, LDA - 2587.00
+ID - 23R, TODA - 3197.00, ASDA - 2897.00, TORA - 2897.00, LDA - 2714.00
+[2023-05-08 11:11:45.242] - Obstacle Added to Runway: Name - Boeing 787-9, x - 2000.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-05-08 11:11:50.658] - Obstacle Added to Runway: Name - Boeing 787-9, x - 2100.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-05-08 11:11:54.105] - Runway Parameters Updated: Landing Over - LDA = -449.40, DT = 427.00
+[2023-05-08 11:11:54.512] - Runway Parameters Updated: Take-off Away From - TODA = 170.60, ASDA = -44.40, TORA = -44.40
+[2023-05-08 11:12:01.739] - Obstacle Added to Runway: Name - Boeing 787-9, x - 1100.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-05-08 11:19:48.451] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:53.163] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:54.546] - Obstacle Added to Runway: Name - Airbus A320-200, x - 1100.00, y - 0.00, Length - 37.60, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:55.649] - Obstacle Removed from Runway: Name - Airbus A320-200, x - 1100.00, y - 0.00, Length - 37.60, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:56.251] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:57.163] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:57.517] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:57.687] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:19:58.788] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:20:00.944] - Obstacle Added to Runway: Name - Boeing 757-200, x - 1100.00, y - 0.00, Length - 47.30, Width - 41.10, Height - 13.60
+[2023-05-08 11:20:02.155] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:20:06.244] - Obstacle Added to Runway: Name - Boeing 787-8, x - 1100.00, y - 0.00, Length - 56.70, Width - 60.00, Height - 16.90
+[2023-05-08 11:20:07.973] - Obstacle Added to Runway: Name - Airbus A321-200, x - 1100.00, y - 0.00, Length - 44.50, Width - 34.10, Height - 11.80
+[2023-05-08 11:20:09.727] - Obstacle Added to Runway: Name - Boeing 747-400, x - 1100.00, y - 0.00, Length - 70.60, Width - 64.40, Height - 19.40
+[2023-05-08 11:20:11.211] - Obstacle Added to Runway: Name - Boeing 747-400, x - 1100.00, y - 0.00, Length - 70.60, Width - 64.40, Height - 19.40
+[2023-05-08 11:20:12.780] - Obstacle Added to Runway: Name - Boeing 757-200, x - 1100.00, y - 0.00, Length - 47.30, Width - 41.10, Height - 13.60
+[2023-05-08 11:20:15.305] - Obstacle Added to Runway: Name - Boeing 757-200, x - 1100.00, y - 0.00, Length - 47.30, Width - 41.10, Height - 13.60
+[2023-05-08 11:20:16.963] - Obstacle Added to Runway: Name - Embraer ERJ190 100, x - 1100.00, y - 0.00, Length - 26.20, Width - 28.80, Height - 10.60
+[2023-05-08 11:20:18.664] - Obstacle Added to Runway: Name - Embraer ERJ190 100, x - 1100.00, y - 0.00, Length - 26.20, Width - 28.80, Height - 10.60
+[2023-05-08 11:20:21.782] - Runway Parameters Updated: Landing Towards - LDA = 786.90, DT = 427.00
+[2023-05-08 11:20:23.676] - Obstacle Added to Runway: Name - Boeing 787-9, x - 1100.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-05-08 11:20:37.014] - Obstacle Added to Runway: Name - Boeing 787-9, x - 1000.00, y - 0.00, Length - 62.80, Width - 60.00, Height - 16.90
+[2023-05-08 11:20:55.410] - Obstacle Added to Runway: Name - Airbus A320-200, x - 1000.00, y - 0.00, Length - 37.60, Width - 34.10, Height - 11.80
+[2023-05-08 11:20:56.747] - Airport Saved - Manchester, Scene Changed to Main Menu
+[2023-05-08 11:21:00.382] - Loaded Airport: Birmingham
+[2023-05-08 11:21:01.972] - Runway Parameters Updated: Landing Towards - LDA = 2580.00, DT = 423.00
+[2023-05-08 11:21:01.991] - New Runway Selected
+ID - 15, TODA - 3063.00, ASDA - 3003.00, TORA - 3003.00, LDA - 2580.00
+ID - 33, TODA - 3196.00, ASDA - 3003.00, TORA - 3003.00, LDA - 2449.00
+[2023-05-08 11:21:05.883] - Runway Parameters Updated: Landing Over - LDA = 2580.00, DT = 423.00
+[2023-05-08 11:21:08.775] - Obstacle Added to Runway: Name - Boeing 757-200, x - 1100.00, y - 0.00, Length - 47.30, Width - 41.10, Height - 13.60

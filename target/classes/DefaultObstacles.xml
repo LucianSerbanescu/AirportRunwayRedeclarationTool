@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<obstacleList>
+    <obstacle>
+        <length>73.0</length>
+        <width>79.8</width>
+        <height>24.1</height>
+        <name>Airbus A380</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>37.6</length>
+        <width>34.1</width>
+        <height>11.8</height>
+        <name>Airbus A320-200</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>33.8</length>
+        <width>34.1</width>
+        <height>11.8</height>
+        <name>Airbus A319</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>63.7</length>
+        <width>60.9</width>
+        <height>18.5</height>
+        <name>Boeing 737-800</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>62.8</length>
+        <width>60</width>
+        <height>16.9</height>
+        <name>Boeing 787-9</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>44.5</length>
+        <width>34.1</width>
+        <height>11.8</height>
+        <name>Airbus A321-200</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>63.7</length>
+        <width>60.9</width>
+        <height>18.5</height>
+        <name>Boeing 777-200</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>47.3</length>
+        <width>41.1</width>
+        <height>13.6</height>
+        <name>Boeing 757-200</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>26.2</length>
+        <width>28.8</width>
+        <height>10.6</height>
+        <name>Embraer ERJ190 100</name>\
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>56.7</length>
+        <width>60</width>
+        <height>16.9</height>
+        <name>Boeing 787-8</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>70.6</length>
+        <width>64.4</width>
+        <height>19.4</height>
+        <name>Boeing 747-400</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>33.4</length>
+        <width>28.9</width>
+        <height>11.1</height>
+        <name>Boeing 737-300</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>12</length>
+        <width>3</width>
+        <height>30.5</height>
+        <name>Small fire truck</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>18.3</length>
+        <width>3</width>
+        <height>68</height>
+        <name>Large fire truck</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+    <obstacle>
+        <length>3.73</length>
+        <width>1.65</width>
+        <height>1.98</height>
+        <name>Aircraft Luggage</name>
+        <x>0.0</x>
+        <y>0.0</y>
+    </obstacle>
+</obstacleList>
